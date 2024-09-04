@@ -13,7 +13,7 @@ display_welcome() {
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+]                AUTO INSTALLER THEMA             [+]${NC}"
-  echo -e "${BLUE}[+]                  © znvrls Dev                [+]${NC}"
+  echo -e "${BLUE}[+]                  © Fayyy Dev                [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${RED}[+] =============================================== [+]${NC}"
   echo -e ""
@@ -21,9 +21,9 @@ display_welcome() {
   echo -e "dilarang keras untuk memperjual belikan."
   echo -e ""
   echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :"
-  echo -e "@fadhost"
+  echo -e "@fayyshop10"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@znvrls Dev"
+  echo -e "@Fayyy Dev"
   sleep 4
   clear
 }
@@ -56,7 +56,7 @@ install_jq() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]               LICENSY znvrls Dev             [+]${NC}"
+  echo -e "${BLUE}[+]               LICENSY Fayyy Dev             [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
@@ -65,11 +65,11 @@ check_token() {
   if [ "$USER_TOKEN" = "andini" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
-    echo -e "${GREEN}Buy dulu Gih Ke Fadhost${NC}"
-    echo -e "${YELLOW}TELEGRAM : @fadhost${NC}"
-    echo -e "${YELLOW}WHATSAPP : 6289530583676${NC}"
+    echo -e "${GREEN}Buy dulu gih Ke Fayyy${NC}"
+    echo -e "${YELLOW}TELEGRAM : @fayyshop10${NC}"
+    echo -e "${YELLOW}WHATSAPP : 6285313776434{NC}"
     echo -e "${YELLOW}HARGA TOKEN : 10K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
-    echo -e "${YELLOW}©znvrls Dev${NC}"
+    echo -e "${YELLOW}©Fayyy Dev${NC}"
     exit 1
   fi
   clear
@@ -456,11 +456,11 @@ while true; do
   echo -e "${RED}  ,ggggg        gggggggg.                                 ${NC}"
   echo -e "${RED} ,ggg'               'ggg.                                ${NC}"
   echo -e "${RED}',gg       ,ggg.      'ggg:                               ${NC}"
-  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer Fadhost   ${NC}"
+  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer Fayy Dev  ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
-  echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : fadhost      ${NC}"
-  echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : znvrls Dev  ${NC}"
-  echo -e "${RED} ggg.    '.'''ggggggp           • Support by znvrls Dev  ${NC}"
+  echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : fayyshop10   ${NC}"
+  echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : Fayyy Dev    ${NC}"
+  echo -e "${RED} ggg.    '.'''ggggggp           • Support by Fayyy Dev    ${NC}"
   echo -e "${RED}  'ggg    '-.__                                           ${NC}"
   echo -e "${RED}    ggg                                                   ${NC}"
   echo -e "${RED}      ggg                                                 ${NC}"
