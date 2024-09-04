@@ -1,8 +1,9 @@
-# Theme
-JANGAN DIJUAL BELAKAN YE BWANG !!!
-BUTUH LICENSE/PW CHAT TELE GUA
->> t.me/fadhost <<
+# Term of service
+Note: Dilarang diperjual belikan !!!
+Jika ada yang memperjual belikan hubungi saya di Telegram.
 
-Comand Run Install Thema
+# Telegram
+https://t.me/fayyshop10
 
-bash <(curl https://raw.githubusercontent.com/gitfdil1248/thema/main/install.sh)
+Command Run Install Panel & Theme
+bash <(curl https://raw.githubusercontent.com/Fayzaaup/theme/main/install.sh)
